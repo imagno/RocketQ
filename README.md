@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" alt="rseat">
 </p>
 
-# `<nlw/>`~Together~ Rocketseat
+# `<nlw/>`Together - Rocketseat
 ## Trilha - Discover
 ### Projeto: Rocket.Q
 #### Instrutora: Jakeliny Gracielly
