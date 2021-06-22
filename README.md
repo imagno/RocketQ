@@ -4,7 +4,7 @@
 
 # `<nlw/>`Together - Rocketseat
 ## Trilha - Discover
-### Projeto: Rocket.Q
+### Projeto: RocketQ
 #### Instrutora: Jakeliny Gracielly
 ![](https://avatars.githubusercontent.com/u/17316392?s=182&v=4)
 
@@ -18,7 +18,7 @@ Nesta trilha é apresentada a vivência no desenvolvimento de todas as etapas de
 No final deste projeto os participantes terão autonomia para decidir onde concentrarão os esforços para o próximo estágio de aprendizado e desenvolvimento profissional, estarão conectados a outras pessoas que vivenciaram o mesmo momento de crescimento e entregarão uma aplicação pronta e com possibilidade de utilização na vida real.
 
 #### A aplicação
-A proposta de desenvolvimento é implementar uma plataforma de perguntas, a **Rocket.Q**!
+A proposta de desenvolvimento é implementar uma plataforma de perguntas, a **RocketQ**!
 
 Nela será possível criar uma sala e disponibilizar o acesso para que outras pessoas façam perguntas de forma anônima. Para o administrador da sala, também será possível excluir ou marcar as perguntas como lidas.
 
