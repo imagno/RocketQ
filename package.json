@@ -1,0 +1,20 @@
+{
+  "name": "ROCKETQ",
+  "version": "1.0.0",
+  "description": "![](https://raw.githubusercontent.com/imagno/comunidade/master/assets/rocketseat.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagno/RocketQ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imagno/RocketQ/issues"
+  },
+  "homepage": "https://github.com/imagno/RocketQ#readme"
+}
