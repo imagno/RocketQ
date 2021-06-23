@@ -1,14 +1,12 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" alt="rseat">
-</p>
+![](https://raw.githubusercontent.com/imagno/comunidade/master/assets/rocketseat.png)
 
-# `<nlw/>`Together - Rocketseat
+# `<nlw/>`Together
 ## Trilha - Discover
 ### Projeto: RocketQ
 #### Instrutora: Jakeliny Gracielly
 ![](https://avatars.githubusercontent.com/u/17316392?s=182&v=4)
 
-<https://github.com/jakeliny>
+[_**Github da Jake**_](https://github.com/jakeliny)
 
 #### Projeto realizado no período de 20 jun 2021 à 27 Jun 2021
 A trilha Discover tem como objetivo auxiliar no direcionamento dos **Devs** que já tem os conceitos básicos e agora estão prestes a dar o próximo passo.
@@ -30,14 +28,27 @@ Espero que todos aproveitem essa jornada maravilhosa que nos está sendo present
 Meu nome é Igor Magno Ferreira Costa, sonho em me tornar um profissional de Desenvolvimento Web e poder contribuir neste novo momento da sociedade que muitos intitulam como Indústria 4.0 mas eu prefiro chamar de sociedade 4.0! A tecnologia como produto do meio já ultrapassou os limites das instituições e se tornou essencial na vida pessoal de cada indivíduo.
 
 ###### Links relacionados
-Meu Github: <https://github.com/imagno>
 
-Meu LinkedIn: <https://www.linkedin.com/in/igor-ferreira-84954a17b>
+_**Faça parte da missão**_
 
-Meu Twitter: <https://twitter.com/icosta2910>
+- [NLW #6](https://nextlevelweek.com/cronograma/6)
 
-Github da Rocketseat: <https://github.com/Rocketseat>
+_**Canais da Rocketseat:**_
 
-Link da NLW 2021: <https://nextlevelweek.com/cronograma/6>
+- [Plataforma](https://app.rocketseat.com.br/dashboard)
 
-Link da comunidade no Discord: <https://discord.gg/VtB87dxH>
+- [Github](https://github.com/Rocketseat)
+
+- [Discord](https://discord.gg/VtB87dxH)
+
+- [YouTube](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+
+- [Twitch](https://www.twitch.tv/rocketseat_oficial)
+
+_**Minhas redes sociais:**_
+
+- [Github](https://github.com/imagno)
+
+- [LinkedIn](https://www.linkedin.com/in/igor-ferreira-84954a17b)
+
+- [Twitter](https://twitter.com/icosta2910)
