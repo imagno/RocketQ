@@ -11,10 +11,14 @@
     "url": "git+https://github.com/imagno/RocketQ.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Igor Magno",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/imagno/RocketQ/issues"
   },
-  "homepage": "https://github.com/imagno/RocketQ#readme"
+  "homepage": "https://github.com/imagno/RocketQ#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
 }
