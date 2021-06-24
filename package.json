@@ -2,9 +2,9 @@
   "name": "ROCKETQ",
   "version": "1.0.0",
   "description": "https://github.com/imagno/RocketQ#readme",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
-    "start": "node src/server.js"
+    "start": "nodemon ."
   },
   "repository": {
     "type": "git",
