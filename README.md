@@ -35,7 +35,7 @@ _**Faça parte da missão**_
 
 _**Canais da Rocketseat:**_
 
-- [Plataforma](https://app.rocketseat.com.br/dashboard)
+- [Plataforma](https://app.rocketseat.com.br/)
 
 - [Github](https://github.com/Rocketseat)
 
