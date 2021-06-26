@@ -4,8 +4,8 @@ module.exports = {
   async create(req, res) {
     const db = await Database()
     const pass = req.body.password
-    let isRoom = true
     let roomId
+    let isRoom = true
 
     while(isRoom) {
       for (let i = 0; i < 6; i++) {
